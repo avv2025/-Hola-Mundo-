@@ -2,7 +2,7 @@
 
 Mi primer repositorio
 
-:book:; :hamburgs:; :clothes:; :dog:;
+:book:; 🍔; 👚:; :dog:;
 
 Utilizando por primera vez GitHub
 
