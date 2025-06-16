@@ -1,0 +1,9 @@
+# -Hola-Mundo-
+
+Mi primer repositorio
+
+:book:; :hamburgs:; :clothes:; :dog:;
+
+Utilizando por primera vez GitHub
+
+Primeros ejercicios realizados en el documento README.
